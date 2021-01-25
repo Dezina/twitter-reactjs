@@ -1,0 +1,96 @@
+.header {
+    background: #fff;
+}
+
+.content {
+    background: #fff;
+}
+
+.menu {
+   background: rgb(66, 16, 206); 
+}
+
+.soon {
+  text-align: center;
+  background: #1abc9c;
+  color: rgb(102, 10, 56);
+  font-size: 23px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.profileText {
+  padding: 5px;
+  text-align: center;
+  color: rgb(54, 52, 53);
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.addressText {
+  left: 0%;
+  color: rgb(54, 52, 53);
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.layout {
+  margin-top: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.v1 {
+border-left: 2px solid rgb(174, 180, 176);
+height: 550px;
+}
+
+.sidenav {
+color: black;
+padding: 6px 6px 6px 32px;
+  text-decoration: none;
+  font-size: 21px;
+  font-weight:bold;
+  display: block;
+}
+
+.sidenav a {
+  padding: 6px 6px 6px 32px;
+  text-decoration: none;
+  font-size: 21px;
+  display: block;
+  color: black;
+  font-weight: bold;
+}
+
+.sidenav a:hover {
+  position: relative;
+  color: #4479ec;
+  border-radius: 30px;
+  background-color: rgb(240, 250, 248);
+}
+
+.tweetButton {
+    background-color: #4479ec;
+    border-radius: 30px;
+    width: 150px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 7px;
+}
+
+.tweetButton:hover{
+    background-color: #3966c9;
+    border-radius: 30px;
+    width: 150px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 7px;
+}
+
+.title {
+  color: black;
+  font-weight: bolder;
+  font-size: 23px;
+}

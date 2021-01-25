@@ -1,0 +1,22 @@
+.add_new {
+       /* top: 15px;
+       left: 0; */
+       /* position: fixed; */
+       top: 35px;
+       padding: 10px;
+    }
+.upload {
+       /* top: 15px;
+       left: 0; */
+       /* position: fixed; */
+       top: 75px;
+       /* padding: 10px; */
+    }
+
+.download {
+       padding: 10px;
+    }
+
+.buttons {
+       right: 0;
+    }
